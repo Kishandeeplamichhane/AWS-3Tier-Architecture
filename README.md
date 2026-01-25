@@ -1,7 +1,7 @@
 # AWS 3-Tier Architecture
 
-## Architecture Diagram
-(![3-tier-architecture-diagram](https://github.com/user-attachments/assets/dd7ed0be-23a5-47b1-95ab-9ae74b0b97d0)
+## 3 Tier Architecture Diagram
+![3-tier-architecture-diagram](https://github.com/user-attachments/assets/dd7ed0be-23a5-47b1-95ab-9ae74b0b97d0)
 
 
 ## Project Overview
