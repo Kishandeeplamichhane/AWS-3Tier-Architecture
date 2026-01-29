@@ -1,7 +1,7 @@
 # AWS 3-Tier Architecture
 
 ## 3 Tier Architecture Diagram
-![3-tier-architecture-diagram](<img width="1111" height="911" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/1cdd8480-57e6-4349-a2d5-9ed9c883acfd" />)
+![3-tier-architecture-diagram](https://github.com/user-attachments/assets/1cdd8480-57e6-4349-a2d5-9ed9c883acfd")
 
 
 
